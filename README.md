@@ -60,7 +60,8 @@ Python, Satellite API, Folium, Streamlit, Pandas, NumPy
 - `app/app.py`: Streamlit application for the interactive dashboard
 - `requirements.txt`: Python dependencies
 
-
+## Live demo
+https://rakshitha-m-r05-urban-heat-hyperlocal-mapping-appapp-2f7cnl.streamlit.app/
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE).
