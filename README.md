@@ -60,8 +60,7 @@ Python, Satellite API, Folium, Streamlit, Pandas, NumPy
 - `app/app.py`: Streamlit application for the interactive dashboard
 - `requirements.txt`: Python dependencies
 
-## Demo Link
-- GitHub repository: https://github.com/Manasa-L-Hegde/urban-heat-hyperlocal-mapping
+
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE).
